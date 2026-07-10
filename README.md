@@ -6,7 +6,7 @@
 2)  Portfolio_Website → https://shamiraryal.com.np
 
 3)  PeerTutor[WebApp]: A student Tutor role based collaborative learning platform
-    https://fe-tutor-rho.vercel.app/
+    -> https://fe-tutor-rho.vercel.app/
 
 4)  Simple Project Game (Tic‑Tac‑Toe) → https://tic-tac-toe-by-shamir.netlify.app
 
