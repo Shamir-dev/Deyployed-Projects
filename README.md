@@ -1,4 +1,7 @@
 # Deyployed-Projects lists
+**Shamir Aryal CV**   https://drive.google.com/file/d/1dCFWERoBO-2uabd4jY3bteeo5N7JV7WE/view
+
+
 
 1)  Currency Converter[CurrencyApiExchange]
      → https://currencyexchangeapi.netlify.app
